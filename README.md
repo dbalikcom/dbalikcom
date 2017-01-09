@@ -1,2 +1,0 @@
-# dbalikcom
-contact form blog
